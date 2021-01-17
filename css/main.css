@@ -30,7 +30,8 @@ header {
     background-position: center;
 }
 
-header h1 {
+header h1 .box 
+.ipad {
     font-family: 'Lora', serif;
     font-size: 30px;
     color: #bbc085;
